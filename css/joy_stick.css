@@ -1,0 +1,26 @@
+
+.div_wrapper_joystick{
+    margin-left: 350px;
+    /* margin-bottom: 300px; */
+}
+.joystick {
+    transition: all 1s;
+    transform-origin: 50% 100%;
+    height: 460px;
+    width: auto;
+}
+.joystick--up {
+     transform: rotateX(40deg) rotateZ(10deg) translateZ(20px); 
+}
+
+ .joystick--left {
+    transform: skew(0.06turn, -18deg);
+}
+
+.joystick--down {
+    transform: rotateX(-20deg) translateZ(50px) translateZ(-20px); 
+}
+
+.joystick--right {
+    transform: skew(-0.06turn, 18deg);
+}

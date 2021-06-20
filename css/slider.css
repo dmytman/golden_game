@@ -1,17 +1,16 @@
+
 img {
-    width: 100%; 
+  border-radius: 20px;
+  height: 536px;
+  width: 710px;
   }
   
   .sim-slider {
-    max-width: 800px;
+    max-width: 1067px;
     min-width: 320px;
-    margin: 228px auto;
+    margin: 837px auto -165px;
     padding: 30px 50px;
-    border: 1px solid #ccd;
-    background-color: #ffffff73;
   }
-  
-  /* General styles */
   .sim-slider {
     position: relative;
   }
@@ -46,14 +45,14 @@ img {
   }
   
   div.sim-slider-arrow-left {
-    left: 10px;
+    left: 5px;
     top: 46%;
     display: block;
     background: url("http://pvbk.spb.ru/inc/slider/sim-files/sim-arrow-left.png") no-repeat;
   }
   
   div.sim-slider-arrow-right {
-    right: 10px;
+    right: -5px;
     top: 46%;
     display: block;
     background: url("http://pvbk.spb.ru/inc/slider/sim-files/sim-arrow-right.png") no-repeat;

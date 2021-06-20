@@ -1,0 +1,15 @@
+.btn{
+    width:250px;
+    height: 40px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: none;
+    margin-bottom: 15px;
+    justify-content: center;
+}
+
+.start_page_div{
+
+    margin-left: 500px;
+    margin-top: 410px;
+}

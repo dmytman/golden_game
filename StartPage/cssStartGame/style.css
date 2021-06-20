@@ -1,0 +1,12 @@
+@import url(./reset.css);
+@import url(./button.css);
+@import url(./modalka.css);
+
+body {
+    background-image: url(/StartPage/img/backgroungс.png); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    margin-top: 75px;
+}

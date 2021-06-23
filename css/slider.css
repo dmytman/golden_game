@@ -119,7 +119,7 @@ img {
   }
 
   body {
-    background-image: url(/img/background_1.jpg); 
+    background-image: url(../img/background_1.jpg); 
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;

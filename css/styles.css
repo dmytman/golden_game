@@ -1,7 +1,7 @@
-@import url(slider.css);
-@import url(reset.css);
-@import url(joy_stick.css);
-body {
+@import url("/css/slider.css");
+@import url("/css/reset.css");
+@import url("/css/joy_stick.css");
+/* body {
     background-image: url(/img/background_1.jpg); 
     background-size: cover;
     background-repeat: no-repeat;
@@ -10,4 +10,4 @@ body {
     margin-top: 400px;
     transform: scale(1.2);
     overflow-x: hidden;
-}
+} */

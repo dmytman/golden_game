@@ -2,7 +2,7 @@
 @import url(reset.css);
 @import url(joy_stick.css);
 body {
-    background-image: url(/img/backgroung.png); 
+    background-image: url(/img/background_1.jpg); 
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;

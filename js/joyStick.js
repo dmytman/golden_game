@@ -51,7 +51,7 @@ document.addEventListener('keydown', (event) => {
   const key = event.key.toLowerCase();
 
   const onKeyUp = (upEvent) => {
-    document.removeEventListener('keyup', onKeyUp); // щоб пам'ять не засмічувати event'ами
+    document.removeEventListener('keyup', onKeyUp);
 
     joystick.classList.remove('joystick--up');
     joystick.classList.remove('joystick--left');
